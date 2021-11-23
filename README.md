@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ali norouzi
-- 👀 I’m interested in wordpress design and html/css and php & javascript/react
+- 👀 I’m interested in wordpress web-design and html/css and php & javascript/react
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
