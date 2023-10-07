@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali norouzi</h1>
 <h3 align="center">A junior frontend developer from Iran</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs / NextJs**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
