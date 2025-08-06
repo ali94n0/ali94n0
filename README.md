@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali norouzi</h1>
-<h3 align="center">A junior frontend developer</h3>
+<h3 align="center">frontend developer</h3>
 
 - 🌱  **ReactJs / NextJs**
 
